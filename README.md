@@ -1,8 +1,9 @@
-🐍 Snake AI – Reinforcement Learning with PyTorch & Pygame
-📌 Overview
+**🐍 Snake AI – Reinforcement Learning with PyTorch & Pygame**
+
+**📌 Overview**
 This project implements an AI agent trained to play the classic Snake game using Deep Q-Learning (DQN). Built with PyTorch and Pygame, the agent learns optimal strategies over time by interacting with the environment, receiving rewards, and improving through experience replay.
 
-🚀 Features
+**🚀 Features**
 Full Snake game implemented with Pygame
 
 AI agent using Deep Q-Learning (DQN)
@@ -13,9 +14,8 @@ Reward shaping to encourage learning
 
 Real-time visualization of gameplay
 
-Training graph with performance metrics (optional)
 
-🗂️ Project Structure
+**🗂️ Project Structure**
 
 ├── model.py           # Neural network architecture
 ├── agent.py           # DQN agent logic
