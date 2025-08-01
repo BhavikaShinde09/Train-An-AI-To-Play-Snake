@@ -1,8 +1,3 @@
-Here's your beautifully formatted `README.md` file, ready to copy and paste into GitHub:
-
----
-
-```markdown
 # 🐍 Snake AI – Reinforcement Learning with PyTorch & Pygame
 
 ## 📌 Overview
